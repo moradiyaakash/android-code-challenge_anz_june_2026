@@ -70,3 +70,4 @@ safe concurrency handling within the scope of the assignment.
 ## Author
 
 Akash Moradia
+Senior Android Developer
