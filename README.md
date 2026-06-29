@@ -67,6 +67,15 @@ safe concurrency handling within the scope of the assignment.
 
 ------------------------------------------------------------------------
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/users_list.png" width="220"/>
+  <img src="screenshots/user_details.png" width="220"/>
+</p>
+
+------------------------------------------------------------------------
+
 ## Author
 
 Akash Moradia
